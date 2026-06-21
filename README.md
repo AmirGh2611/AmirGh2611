@@ -18,7 +18,4 @@ hi, i'm amirhossein<br>I am a computer vision engineer. i work with deep learnin
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AmirGh2611&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=AmirGh2611&icon=0&color=7)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
