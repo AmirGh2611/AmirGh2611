@@ -11,4 +11,4 @@ Hi, I'm Amirhossein! 👋
 - **Tools & Platforms:** Git, TensorBoard, Jupyter, Weights & Biases
 
 📫 Let's Connect!
-I'm always open to collaboration, research discussions, or new opportunities. Feel free to reach out!
+- I'm always open to collaboration, research discussions, or new opportunities. Feel free to reach out!
