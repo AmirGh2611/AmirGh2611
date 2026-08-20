@@ -1,13 +1,16 @@
 Hi, I'm Amirhossein! 👋
 
 🚀 About Me
-- I'm a Deep learning Developer.
+- i'm a LLM developer i build applications for chatbot, agents, translation, ...
 
 🛠 Skills
+- **Python**
+- **Rust**
 - **Deep Learning**
-- **Computer Vision**
-- **Machine Vision**
-- **Image Processing**
+- **LLM**
+- **RL for LLM**
+- **Optimizations**
+- **Deployment**
 - **etc**
 
 📫 Let's Connect!
