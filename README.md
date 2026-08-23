@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Amirhossein</h1>
-<h3 align="center">Building ai stuff | LLM-VLM Developer</h3>
+<h3 align="center">Building applications that can see and read | CV-VLM-LLM Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirgh2611&label=Profile%20views&color=0e75b6&style=flat" alt="amirgh2611" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirgh2611" alt="amirgh2611" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/amirhosseingg79" target="blank"><img src="https://img.shields.io/twitter/follow/amirhosseingg79?logo=twitter&style=for-the-badge" alt="amirhosseingg79" /></a> </p>
 
 - 🔭 I’m currently working on **some kaggle competitions**
 
-- 🌱 I’m currently learning **LLM-VLM**
+- 🌱 I’m currently learning **CV-LLM-VLM**
 
 - 👯 I’m looking to collaborate on **any useful project**
 
 - 🤝 I’m looking for help with **study sources**
 
-- 💬 Ask me about **Python, Rust, LLM, VLM, Deep Learning, Quantization, Distillation, Deployments, RL for LLM, Image processing**
+- 💬 Ask me about **Python, Rust, CV, LLM, VLM, Deep Learning, Quantization, Deployments, RL for LLM, Image processing**
 
 - 📫 How to reach me **amirhosseingh2611@gmail.com**
 
@@ -23,6 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/amirhosseingg79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirhosseingg79" height="30" width="40" /></a>
 <a href="https://kaggle.com/amirhossein123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amirhossein123" height="30" width="40" /></a>
 </p>
 
