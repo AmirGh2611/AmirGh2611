@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirhossein</h1>
-<h3 align="center">Building smart applications | NLP-LLM-RL Developer</h3>
+<h3 align="center">Building smart applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirgh2611&label=Profile%20views&color=0e75b6&style=flat" alt="amirgh2611" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **some kaggle competitions**
 
-- 🌱 I’m currently learning **NLP-LLM-RL**
+- 🌱 I’m currently learning **LLM**
 
 - 👯 I’m looking to collaborate on **any useful project**
 
 - 🤝 I’m looking for help with **study sources**
 
-- 💬 Ask me about **Python, Rust, NLP, LLM, RL, Deep Learning, etc**
+- 💬 Ask me about **Python, Rust, LLM, RL, Deep Learning, Agentic AI, etc**
 
 - 📫 How to reach me **amirhosseingh2611@gmail.com**
 
