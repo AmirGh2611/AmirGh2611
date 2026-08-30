@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **study sources**
 
-- 💬 Ask me about **Python, Rust, LLM, Deep Learning, Agentic AI, RAG, etc**
+- 💬 Ask me about **Python, Rust, LLM, Deep Learning, Agentic AI, RAG, MLOps, etc**
 
 - 📫 How to reach me **amirhosseingh2611@gmail.com**
 
